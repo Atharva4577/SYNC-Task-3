@@ -1,0 +1,96 @@
+.logo{
+    width:80px;
+    height:70px;
+    margin-left: 20px;
+}
+
+.edu{
+    margin-left: 450px;
+    color:rgb(243, 240, 234);
+    font-size: 60px;
+}
+
+.first{
+  background-color:#ebdc8b;
+  margin-top: 40px;
+}
+
+.work{
+  color:#0a0a0a;
+  font-size: 52px;
+  position: absolute;
+  top:300px;
+  left:150px;
+}
+
+.l1{
+  color:#040404;
+  font-weight: bolder;
+  font-size: 25px;
+  position: absolute;
+  top:380px;
+  left:150px;
+}
+
+.l2{
+  color:#101010;
+  font-weight: bolder;
+  font-size: 25px;
+  position: absolute;
+  top:405px;
+  left:150px;
+}
+
+.pic1{
+  height:400px;
+  width:400px;
+  margin-left: 1050px;
+  margin-top: 70px;
+}
+
+.enroll{
+  position: absolute;
+  left:150px;
+  top:500px;
+}
+
+.learn{
+  background-color: rgb(220, 234, 131);
+  color:black;
+  position: absolute;
+  left:350px;
+  top:500px;
+}
+
+.learn:hover{
+  background-color:#9772FB;
+}
+
+#courses{
+  margin-top: 20px;
+}
+
+.software{
+  width:200px;
+  height:100px;
+  text-align: center;
+  margin:0;
+  padding:0;
+}
+
+.c1{
+  margin-left: 30px;
+}
+
+.heady{
+  font-size: 1rem;
+  font-weight:700;
+  text-align: left;
+}
+
+.pary{
+  font-size:0.8rem;
+  font-weight:500;
+  text-align: left;
+
+}
